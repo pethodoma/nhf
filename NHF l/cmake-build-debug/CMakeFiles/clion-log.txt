@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/CodeBlocks/MinGW/bin/mingw32-make.exe" "-DCMAKE_C_COMPILER=D:/Program Files/CodeBlocks/MinGW/bin/gcc.exe" -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\petho\Documents\NHF\NHF l"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/petho/Documents/NHF/NHF l/cmake-build-debug

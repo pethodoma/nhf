@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/petho/Documents/NHF/NHF l/beillesztes.h
+struktura.h
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+stdbool.h
+-
+
+C:/Users/petho/Documents/NHF/NHF l/fajlkez.h
+struktura.h
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+
+C:/Users/petho/Documents/NHF/NHF l/kereses.c
+kereses.h
+C:/Users/petho/Documents/NHF/NHF l/kereses.h
+struktura.h
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+beillesztes.h
+C:/Users/petho/Documents/NHF/NHF l/beillesztes.h
+string.h
+-
+torles.h
+C:/Users/petho/Documents/NHF/NHF l/torles.h
+listazas.h
+C:/Users/petho/Documents/NHF/NHF l/listazas.h
+fajlkez.h
+C:/Users/petho/Documents/NHF/NHF l/fajlkez.h
+
+C:/Users/petho/Documents/NHF/NHF l/kereses.h
+struktura.h
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+stdbool.h
+-
+
+C:/Users/petho/Documents/NHF/NHF l/listazas.h
+struktura.h
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+stdbool.h
+-
+
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+
+C:/Users/petho/Documents/NHF/NHF l/torles.h
+struktura.h
+C:/Users/petho/Documents/NHF/NHF l/struktura.h
+stdbool.h
+-
+

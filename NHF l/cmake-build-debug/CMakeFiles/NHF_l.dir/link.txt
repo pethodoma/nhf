@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\NHF_l.dir/objects.a
+"D:\Program Files\CodeBlocks\MinGW\bin\ar.exe" cr CMakeFiles\NHF_l.dir/objects.a @CMakeFiles\NHF_l.dir\objects1.rsp
+"D:\Program Files\CodeBlocks\MinGW\bin\gcc.exe" -g -Wl,--whole-archive CMakeFiles\NHF_l.dir/objects.a -Wl,--no-whole-archive -o NHF_l.exe -Wl,--out-implib,libNHF_l.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\NHF_l.dir\linklibs.rsp
